@@ -8,19 +8,19 @@ class geschichte
 
         Console.WriteLine("Geschichtenerzähler\n");
 
-        Console.Write("Nenne eine Farbe:       ");
+        Console.Write("Nenne eine Farbe: ");
         farbe = Console.ReadLine();
 
-        Console.Write("Nenne ein Lebewesen:    ");
+        Console.Write("Nenne ein Lebewesen: ");
         lebewesen = Console.ReadLine();
 
-        Console.Write("Nenne ein Verb:         ");
+        Console.Write("Nenne ein Verb: ");
         verb = Console.ReadLine();
 
         Console.Write("Nenne einen Körperteil: ");
         teil = Console.ReadLine();
 
-        Console.Write("Nenne einen Namen:      ");
+        Console.Write("Nenne einen Namen: ");
         name = Console.ReadLine();
 
         Console.WriteLine("\n\nEs war einmal ein {0}.", lebewesen);
