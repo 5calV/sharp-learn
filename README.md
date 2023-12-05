@@ -10,7 +10,9 @@ Before creating a pull request PLEASE delete /bin and /obj folders aswell as the
 Make sure that the .NET version you have installed is the same as the one specified in the .csproj file.
 
 ## How to contribute?
-### Way 1
+### Option 1
 Fork this repository, clone your local fork. Commit to the local repository and push to the origin of your fork. Then pull-request.
-### Way 2
+### Option 2
 Clone this repository, commit to the local copy, pull-request.
+### Option 3
+Use VScode inside the browser (Press "."), or use GitHub's text editor. Then pull-request directly to this repository.
