@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiVv564qBS7CjNA5x/Rjv9yKgE32FFm29qr4DJuIhldPYO7YS+SJKwodJatXwO3FbIco50hU/9eoZAIGWVUZYQ==",
+  "success": true,
+  "projectFilePath": "/home/calv/Schule/LF05/Sharp/01Einstiegsaufgaben/1/1.csproj",
+  "expectedPackageFiles": [
+    "/home/calv/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
