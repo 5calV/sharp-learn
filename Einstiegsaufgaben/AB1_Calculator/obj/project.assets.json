@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/calv/.nuget/packages/": {}
+    "C:\\Users\\olefr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/calv/Schule/LF05/Sharp/01Einstiegsaufgaben/1/1.csproj",
+      "projectUniqueName": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\1.csproj",
       "projectName": "1",
-      "projectPath": "/home/calv/Schule/LF05/Sharp/01Einstiegsaufgaben/1/1.csproj",
-      "packagesPath": "/home/calv/.nuget/packages/",
-      "outputPath": "/home/calv/Schule/LF05/Sharp/01Einstiegsaufgaben/1/obj/",
+      "projectPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\1.csproj",
+      "packagesPath": "C:\\Users\\olefr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/calv/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\olefr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -57,7 +57,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.13, 7.0.13]"
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
           }
         ],
         "frameworkReferences": {
@@ -65,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
