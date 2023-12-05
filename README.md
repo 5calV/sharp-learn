@@ -8,7 +8,10 @@ Before creating a pull request PLEASE delete /bin and /obj folders aswell as the
 
 ## Help! Why does it not compile?!
 Make sure that the .NET version you have installed is the same as the one specified in the .csproj file.
-Please also specify the total path to the .csproj file when running, e.g: $ dotnet run --project /home/user/sharp-learn/Einstiegsaufgaben/exampleProject/example.csproj
+Please also specify the total path to the .csproj file when running, e.g:
+```
+$ dotnet run --project /home/user/sharp-learn/Einstiegsaufgaben/exampleProject/example.csproj
+```
 
 ## How to contribute?
 ### Option 1
