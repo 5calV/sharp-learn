@@ -32,34 +32,5 @@ class geschichte
 
         Console.ReadKey();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
