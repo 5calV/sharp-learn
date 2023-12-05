@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckOfV8ndmwrq0t7XE4YLKo9WEnWhYW/+YpN1ZoQB2hb5XfyFlYqbxdIhkTKjjBhTWMhXt3JsxHYuN7WP9RBChA==",
+  "dgSpecHash": "CN9kRuD/55tGAPjK65vm6GmTPdxgHulGvCxM0KtwHE8vBD+Lu93ejd1SB/GmHlNF5UiDXoam4xDcDt/PDRBtJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\1.csproj",
+  "projectFilePath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\AB1_Calculator\\1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olefr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\olefr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

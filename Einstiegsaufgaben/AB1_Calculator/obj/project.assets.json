@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\1.csproj",
+      "projectUniqueName": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\AB1_Calculator\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\1.csproj",
+      "projectPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\AB1_Calculator\\1.csproj",
       "packagesPath": "C:\\Users\\olefr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\olefr\\OneDrive\\Dokumente\\OBSBS\\LF05\\VS-Code_Workspace\\sharp\\sharp-learn\\Einstiegsaufgaben\\AB1_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olefr\\AppData\\Roaming\\NuGet\\NuGet.Config"
