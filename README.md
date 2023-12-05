@@ -1,7 +1,7 @@
 # sharp-learn
 
 ## ITS-231
-Repository for ITS231 to collaborate on projects for programming class.
+Repository for ITS231 to collaborate on projects for our C# programming class.
 
 ## Pull Requests
 Before creating a pull request PLEASE delete /bin and /obj folders aswell as the sln file in the project you worked on.
