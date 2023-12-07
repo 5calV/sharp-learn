@@ -14,7 +14,7 @@ class AB2
         Der Rest der Division ist 1.
         */
 
-        int dividend, divisor, ergebnis, rest;
+        double dividend, divisor, ergebnis, rest;
 
         dividend = 0;
         divisor = 0;
@@ -32,7 +32,7 @@ class AB2
 
         // Ergebnis ermitteln
 
-        
+
 
     }
 }
