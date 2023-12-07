@@ -31,16 +31,8 @@ class AB2
         dividend = Convert.ToDouble(Console.ReadLine());
 
         // Ergebnis ermitteln
-        ergebnis = (dividend)/(divisor)
 
-
-
-
-
-
-
-
-
+        
 
     }
 }
