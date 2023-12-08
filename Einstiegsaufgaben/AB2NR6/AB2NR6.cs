@@ -4,7 +4,9 @@ class AB2
     public static void Main(string[] args)
     {
         /*
-        6.	Erstellen Sie ein Programm, das zwei Zahlen einliest. 
+        6.	
+        AUFGABE:
+        Erstellen Sie ein Programm, das zwei Zahlen einliest. 
         Diese zwei Zahlen sollen dividiert werden. Das Ergebnis 
         als ganze Zahl und der Restwert werden einzeln ausgegeben.
 
