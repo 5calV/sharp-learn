@@ -15,7 +15,7 @@ class AB2
         Ergebnis: 1
         Der Rest der Division ist 1.
         */
-
+        int 
         double dividend, divisor, ergebnis, rest;
 
         dividend = 0;
@@ -29,8 +29,8 @@ class AB2
         dividend = Convert.ToDouble(Console.ReadLine());
 
         // Divisor einlesen
-        Console.Write("Bitte den Dividenden eingeben: ");
-        dividend = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Bitte den Divisor eingeben: ");
+        divisor = Convert.ToDouble(Console.ReadLine());
 
         // Ergebnis ermitteln
 
