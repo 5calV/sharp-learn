@@ -15,7 +15,6 @@ class AB2
         Ergebnis: 1
         Der Rest der Division ist 1.
         */
-        int 
         double dividend, divisor, ergebnis, rest;
 
         dividend = 0;
@@ -32,9 +31,11 @@ class AB2
         Console.Write("Bitte den Divisor eingeben: ");
         divisor = Convert.ToDouble(Console.ReadLine());
 
-        // Ergebnis ermitteln
-
-
+        // Ergebnis ermitteln und ausgeben
+        ergebnis = dividend / divisor;
+        rest = dividend % divisor;
+        Console.WriteLine("Das Ergebnis ist: " + ergebnis);
+        Console.WriteLine("Der Rest beträgt: " + rest);
 
     }
 }
