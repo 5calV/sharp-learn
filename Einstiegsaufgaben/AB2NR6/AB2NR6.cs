@@ -15,13 +15,13 @@ class AB2
         Ergebnis: 1
         Der Rest der Division ist 1.
         */
+        
         double dividend, divisor, ergebnis, rest;
 
         dividend = 0;
         divisor = 0;
         ergebnis = 0;
         rest = 0;
-
 
         // Dividenden einlesen
         Console.Write("Bitte den Dividenden eingeben: ");
