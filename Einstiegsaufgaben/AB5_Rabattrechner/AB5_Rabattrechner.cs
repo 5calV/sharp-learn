@@ -4,7 +4,7 @@ class rabattRechner {
 	public static void Main(string[] args) {
 
         // Variablen Eingabe
-        String produkt = String.Empty;
+        string produkt = String.Empty;
         double einzelpreis = 0;
         int stueckzahl = 0;
         float rabatt = 0;
