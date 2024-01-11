@@ -1,4 +1,4 @@
-﻿
+
 class rabattRechner {
 
 	public static void Main(string[] args) {
@@ -16,7 +16,7 @@ class rabattRechner {
 
         // Eingabe Produktname
         Console.WriteLine("Welches Produkt wurde gekauft?\n");
-		produkt = Convert.ToString(Console.ReadLine());
+		produkt = Console.ReadLine();
 
         // Eingabe Einzelpreis
         Console.WriteLine("Was ist der Einzelpreis?\n");
@@ -40,7 +40,6 @@ class rabattRechner {
         Console.Clear();
 
         // Ausgabe
-        // preisNachAbzug zeigt zu viele nachkommastellen, es dürfen nur 2 sein!
         Console.WriteLine("Der Kunde kauft: " + stueckzahl + " Stück " + produkt + " zu einem Einzelpreis von " + einzelpreis + "€.");
         Console.WriteLine("Der Normalpreis würde " + normalpreis + "€ betragen.");
         Console.WriteLine("Sie gewähren " + rabatt + "% Rabatt.");
