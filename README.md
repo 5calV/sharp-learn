@@ -4,15 +4,7 @@
 Repository for ITS231 to collaborate on projects for our C# programming class.
 
 ## Pull Requests
-Before creating a pull request PLEASE delete /bin and /obj folders aswell as the .sln file in the project you worked on.
-
-## Help! Why does it not compile?!
-Make sure that the .NET version you have installed is the same as the one specified in the .csproj file.
-
-Please also specify the total path to the .csproj file when running, e.g:
-```
-$ dotnet run --project /home/user/sharp-learn/Einstiegsaufgaben/exampleProject/example.csproj
-```
+Before creating a pull request PLEASE make sure to ONLY add the cs files.
 
 ## How to contribute?
 ### Option 1
