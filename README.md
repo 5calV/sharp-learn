@@ -8,7 +8,7 @@ Before creating a pull request PLEASE make sure to ONLY add the cs files.
 
 ## How to contribute?
 ### Option 1
-Fork this repository, clone your local fork. Commit to the local repository and push to the origin of your fork. Then pull-request.
+Fork this repository, clone your fork. Commit to the local repository and push to the origin of your fork. Then pull-request.
 ### Option 2
 Clone this repository, commit to the local copy, pull-request.
 ### Option 3
